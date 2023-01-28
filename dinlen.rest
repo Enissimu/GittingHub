@@ -1,6 +1,7 @@
-PUT   http://localhost:3001/api/blogs/63cea23bb8fe9920f582ecbe
+DELETE    http://localhost:3001/api/login
 content-type: application/json
 
 {
-    "likes":40
+    "username":"JOJO",
+    "password":"313131"
 }
